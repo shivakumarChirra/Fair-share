@@ -1,5 +1,5 @@
 # 📱 My Fair Share
-
+![Banner](banner.png)
 **My Fair Share** is a smart and simple expense-splitting app that helps friends, roommates, or groups divide shared costs fairly and transparently. Whether it's a dinner, trip, or rent, the app ensures everyone pays their fair share — no more awkward math or misunderstandings.
 
 ---
