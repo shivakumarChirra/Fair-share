@@ -36,11 +36,6 @@
 
 ## 📸 Screenshots
 
-> _(Add images of your app’s UI here for better presentation)_
-
-![Home Screen](screenshots/home.png)
-![Add Expense](screenshots/add_expense.png)
-![Summary](screenshots/summary.png)
 
 ---
 
@@ -49,7 +44,7 @@
 Clone the repo and run the app locally.
 
 ```bash
-git clone https://github.com/yourusername/my-fair-share.git
+git clone [https://github.com/yourusername/my-fair-share.git](https://github.com/shivakumarChirra/Fair-share)
 cd my-fair-share
 flutter pub get
 flutter run
